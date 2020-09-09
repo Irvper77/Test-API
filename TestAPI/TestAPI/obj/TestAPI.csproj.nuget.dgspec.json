@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\norsh\\Documents\\CoreDocker\\TestAPI\\TestAPI\\TestAPI.csproj": {}
+    "C:\\Users\\Tejam\\OneDrive\\Dokument\\GitHub\\Test-API\\TestAPI\\TestAPI\\TestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\norsh\\Documents\\CoreDocker\\TestAPI\\TestAPI\\TestAPI.csproj": {
+    "C:\\Users\\Tejam\\OneDrive\\Dokument\\GitHub\\Test-API\\TestAPI\\TestAPI\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\norsh\\Documents\\CoreDocker\\TestAPI\\TestAPI\\TestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Tejam\\OneDrive\\Dokument\\GitHub\\Test-API\\TestAPI\\TestAPI\\TestAPI.csproj",
         "projectName": "TestAPI",
-        "projectPath": "C:\\Users\\norsh\\Documents\\CoreDocker\\TestAPI\\TestAPI\\TestAPI.csproj",
-        "packagesPath": "C:\\Users\\norsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\norsh\\Documents\\CoreDocker\\TestAPI\\TestAPI\\obj\\",
+        "projectPath": "C:\\Users\\Tejam\\OneDrive\\Dokument\\GitHub\\Test-API\\TestAPI\\TestAPI\\TestAPI.csproj",
+        "packagesPath": "C:\\Users\\Tejam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tejam\\OneDrive\\Dokument\\GitHub\\Test-API\\TestAPI\\TestAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\norsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tejam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
