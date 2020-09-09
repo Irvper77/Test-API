@@ -4,7 +4,8 @@
 # https://aka.ms/yaml
 
 trigger:
-include:
+  branches:
+    include:
     - master
     - releases/*
     exclude:
